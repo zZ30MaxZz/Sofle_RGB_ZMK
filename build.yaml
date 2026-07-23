@@ -18,9 +18,10 @@
 #   - board: nice_nano_v2
 #     shield: sofle_right #nice_view_adapter nice_view
 
+---
 include:
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: sofle_left
 
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: sofle_right
